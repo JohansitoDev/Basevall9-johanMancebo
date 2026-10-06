@@ -1,0 +1,8 @@
+{
+  "name": "Béisbol Dominicano 9",
+  "description": "Fast-paced, chibi-style mobile baseball game featuring classic Dominican rivalry. Play instantly in your browser with simple swipe controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
